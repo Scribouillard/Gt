@@ -1,0 +1,30 @@
+{
+  "GtButton":
+  {
+    "1":"<button class=\"gt-button btn btn-primary\">{{text}}</button>",
+    "2":"<div class=\"btn-group\"><button type=\"button\" class=\"gt_button btn btn-primary dropdown-toggle\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">{{text}} <span class=\"caret\"></span></button><ul class=\"gt-buttonList dropdown-menu\"></ul></div>",
+    "3":"<li><a href=\"#\" class=\"gt-button\">{{text}}</a></li>",
+    "navBar":"<li><a href=\"#\" class=\"gt-button\">{{text}}</a></li>"
+  },
+  "GtWindow":
+  {
+    "1":"<div class=\"modal fade\" tabindex=\"-1\" role=\"dialog\"><div class=\"modal-dialog\"><div class=\"modal-content\"><div class=\"modal-header\"><button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></button><h4 class=\"modal-title\">{{title}}</h4></div><div class=\"modal-body\">{{body}}</div><div class=\"modal-footer\"><div class=\"my_other_buttons\"></div>[[closeButton]]</div></div></div></div>"
+  },
+  "GtNavBar":
+  {
+    "1":"<nav class=\"navbar navbar-default navbar-static-top\"><div class=\"container\"><div class=\"navbar-header\"><button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#navbar\" aria-expanded=\"false\" aria-controls=\"navbar\"><span class=\"sr-only\">Toggle navigation</span><span class=\"icon-bar\"></span><span class=\"icon-bar\"></span><span class=\"icon-bar\"></span></button></div><div id=\"navbar\" class=\"navbar-collapse collapse\"><ul class=\"nav navbar-nav gt-navbar-left\"></ul><ul class=\"nav navbar-nav navbar-right gt-navbar-right\"></ul></div></div></nav>"
+  },
+  "GtTextEdit":
+  {
+    "singleline":"<input type=\"text\" class=\"form-control input-md\" value=\"{{text}}\" placeholder=\"{{placeholder}}\" />",
+    "password":"<input type=\"password\" class=\"form-control input-md\" value=\"{{text}}\" />",
+    "multiline":"<textarea placeholder=\"{{placeholder}}\" class=\"form-control\">{{text}}</textarea>"
+  },
+  "GtForm":
+  {
+    "1":"<form class=\"form-horizontal gt-form-container\"><fieldset><legend>{{title}}</legend></fieldset></form>",
+    "label":"<div class=\"form-group\"><label class=\"col-md-4 control-label\"></label><div class=\"col-md-4 gt-label-input\"></div></div>"
+  }
+}
+
+
