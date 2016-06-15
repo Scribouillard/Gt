@@ -16,6 +16,9 @@ Gt.controller('Page1', ['GtButton', 'GtNavBar', 'GtTextEdit', 'GtForm'], 'GtWidg
 	this.form.add(this.button, ''/*, "Ceci est un bouton"*/);
 	this.button.connect('click', function(){this.form.submit('actions.php')}, this);
 
+	this.a = new GtWidget();
+	this.a.setStyle('block');
+
 });
 
 Page1.prototype.formResponse = function(data)
