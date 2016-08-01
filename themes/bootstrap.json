@@ -3,8 +3,9 @@
   {
     "1":"<button class=\"gt-button btn btn-primary\">{{text}}</button>",
     "2":"<div class=\"btn-group\"><button type=\"button\" class=\"gt_button btn btn-primary dropdown-toggle\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">{{text}} <span class=\"caret\"></span></button><ul class=\"gt-buttonList dropdown-menu\"></ul></div>",
-    "3":"<li><a href=\"#\" class=\"gt-button\">{{text}}</a></li>",
-    "navBar":"<li><a href=\"#\" class=\"gt-button\">{{text}}</a></li>"
+    "3":"<li class=\"gt-button\"><a href=\"#\">{{text}}</a></li>",
+    "navBar":"<li class=\"gt-button\"><a href=\"#\">{{text}}</a></li>",
+    "tabBar":"<a class=\"gt-button btn btn-primary\" href=\"#\">{{text}}</a>"
   },
   "GtWindow":
   {
@@ -24,6 +25,22 @@
   {
     "1":"<form class=\"form-horizontal gt-form-container\"><fieldset><legend>{{title}}</legend></fieldset></form>",
     "label":"<div class=\"form-group\"><label class=\"col-md-4 control-label\"></label><div class=\"col-md-4 gt-label-input\"></div></div>"
+  },
+  "GtCanvas":
+  {
+    "1":"<canvas tabindex=\"1000\" style=\"width:100%; height:100%; z-index:4;\"></canvas><script>GtCanvas.initialize(\"{{uniqid}}\");</script>"
+  },
+  "GtBar":
+  {
+    "1":"<div></div>"
+  },
+  "GtPageContainer":
+  {
+    "1":"<div style=\"width:100%; height:100%;\"></div>"
+  },
+  "GtList":
+  {
+    "1":"<table class=\"table gt-table\"></table>"
   }
 }
 
