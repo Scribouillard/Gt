@@ -2,21 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14ef6913-3af3-4b3a-acf3-d14103bf81b6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/GtBar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/GtCanvas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/GtList.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/GtNavigator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/GtSocket.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/GtTransition.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/GtTest1/chopin.jpg" afterPath="$PROJECT_DIR$/test/GtTest1/chopin.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/GtButton.js" afterPath="$PROJECT_DIR$/lib/GtButton.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/GtList.js" afterPath="$PROJECT_DIR$/lib/GtList.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/GtNavBar.js" afterPath="$PROJECT_DIR$/lib/GtNavBar.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/GtObject.js" afterPath="$PROJECT_DIR$/lib/GtObject.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/GtPageContainer.js" afterPath="$PROJECT_DIR$/lib/GtPageContainer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/GtSocket.js" afterPath="$PROJECT_DIR$/lib/GtSocket.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/GtTabBar.js" afterPath="$PROJECT_DIR$/lib/GtTabBar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/GtText.js" afterPath="$PROJECT_DIR$/lib/GtText.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/GtTextEdit.js" afterPath="$PROJECT_DIR$/lib/GtTextEdit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/GtTransition.js" afterPath="$PROJECT_DIR$/lib/GtTransition.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/GtWidget.js" afterPath="$PROJECT_DIR$/lib/GtWidget.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/GtWindow.js" afterPath="$PROJECT_DIR$/lib/GtWindow.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/GtTest1/controllers/Main.js" afterPath="$PROJECT_DIR$/test/GtTest1/controllers/Main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/GtTest1/controllers/Page1.js" afterPath="$PROJECT_DIR$/test/GtTest1/controllers/Page1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/GtTest1/controllers/Page2.js" afterPath="$PROJECT_DIR$/test/GtTest1/controllers/Page2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/Trijet/controllers/Main.js" afterPath="$PROJECT_DIR$/test/Trijet/controllers/Main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/Trijet/controllers/Page1.js" afterPath="$PROJECT_DIR$/test/Trijet/controllers/Page1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/Trijet/controllers/Page2.js" afterPath="$PROJECT_DIR$/test/Trijet/controllers/Page2.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bootstrap.json" afterPath="$PROJECT_DIR$/themes/bootstrap.json" />
     </list>
     <ignored path="Gt.iws" />
@@ -42,28 +46,48 @@
       <file leaf-file-name="GtButton.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/GtButton.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="48" />
+            <state relative-caret-position="289">
+              <caret line="17" column="0" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="48" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GtWidget.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GtWidget.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/GtWidget.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="189" column="1" selection-start-line="189" selection-start-column="1" selection-end-line="189" selection-end-column="1" />
+            <state relative-caret-position="3162">
+              <caret line="188" column="43" selection-start-line="188" selection-start-column="43" selection-end-line="188" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GtTransition.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="GtSocket.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/GtSocket.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GtTabBar.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/GtTabBar.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GtTransition.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/GtTransition.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+            <state relative-caret-position="187">
+              <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -72,7 +96,7 @@
       <file leaf-file-name="GtPageContainer.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/GtPageContainer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
+            <state relative-caret-position="765">
               <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
               <folding />
             </state>
@@ -82,7 +106,7 @@
       <file leaf-file-name="GtBar.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/GtBar.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
+            <state relative-caret-position="374">
               <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
               <folding />
             </state>
@@ -94,16 +118,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GtObject.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/GtObject.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="314" column="49" selection-start-line="314" selection-start-column="49" selection-end-line="314" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -122,7 +136,7 @@
       <file leaf-file-name="GtCanvas.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/GtCanvas.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
+            <state relative-caret-position="1020">
               <caret line="60" column="39" selection-start-line="60" selection-start-column="39" selection-end-line="60" selection-end-column="39" />
               <folding />
             </state>
@@ -189,14 +203,14 @@
         <option value="$PROJECT_DIR$/lib/GtNavigator.js" />
         <option value="$PROJECT_DIR$/lib/GtCanvas.js" />
         <option value="$PROJECT_DIR$/lib/GtObject.js" />
-        <option value="$PROJECT_DIR$/lib/GtSocket.js" />
-        <option value="$PROJECT_DIR$/lib/GtWidget.js" />
-        <option value="$PROJECT_DIR$/lib/GtTransition.js" />
         <option value="$PROJECT_DIR$/lib/GtButton.js" />
         <option value="$PROJECT_DIR$/themes/bootstrap.json" />
         <option value="$PROJECT_DIR$/lib/GtTabBar.js" />
         <option value="$PROJECT_DIR$/lib/GtBar.js" />
         <option value="$PROJECT_DIR$/lib/GtPageContainer.js" />
+        <option value="$PROJECT_DIR$/lib/GtWidget.js" />
+        <option value="$PROJECT_DIR$/lib/GtSocket.js" />
+        <option value="$PROJECT_DIR$/lib/GtTransition.js" />
       </list>
     </option>
   </component>
@@ -401,7 +415,9 @@
       <workItem from="1468322516609" duration="673000" />
       <workItem from="1468392573532" duration="13578000" />
       <workItem from="1468485335950" duration="64315000" />
-      <workItem from="1469277766778" duration="15858000" />
+      <workItem from="1469277766778" duration="16679000" />
+      <workItem from="1470920856981" duration="5218000" />
+      <workItem from="1471605914442" duration="89000" />
     </task>
     <task id="LOCAL-00001" summary="Amélioration design Android + création GtTabBar">
       <created>1465997433704</created>
@@ -410,29 +426,44 @@
       <option name="project" value="LOCAL" />
       <updated>1465997433704</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Plein de trucs">
+      <created>1470038520572</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1470038520572</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Plein de trucs2">
+      <created>1470038714280</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1470038714280</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="207191000" />
+    <option name="totallyTimeSpent" value="213319000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26899695" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2773556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -454,7 +485,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Amélioration design Android + création GtTabBar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Amélioration design Android + création GtTabBar" />
+    <MESSAGE value="Plein de trucs" />
+    <MESSAGE value="Plein de trucs2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Plein de trucs2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -557,7 +590,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
           <caret line="66" column="17" selection-start-line="66" selection-start-column="17" selection-end-line="66" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -565,7 +597,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
           <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -580,7 +611,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
           <caret line="39" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -588,7 +618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -596,15 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/GtSocket.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -612,7 +632,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -620,15 +639,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="549">
           <caret line="118" column="32" selection-start-line="118" selection-start-column="32" selection-end-line="118" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/GtObject.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
+        <state relative-caret-position="5304">
           <caret line="314" column="49" selection-start-line="314" selection-start-column="49" selection-end-line="314" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -642,7 +659,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/GtCanvas.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
+        <state relative-caret-position="1020">
           <caret line="60" column="39" selection-start-line="60" selection-start-column="39" selection-end-line="60" selection-end-column="39" />
           <folding />
         </state>
@@ -658,15 +675,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/GtButton.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="48" />
+        <state relative-caret-position="289">
+          <caret line="17" column="0" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/GtBar.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
+        <state relative-caret-position="374">
           <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
           <folding />
         </state>
@@ -674,32 +691,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/GtPageContainer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
+        <state relative-caret-position="765">
           <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/GtTabBar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="57" column="45" selection-start-line="57" selection-start-column="45" selection-end-line="57" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/GtTransition.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/GtWidget.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="189" column="1" selection-start-line="189" selection-start-column="1" selection-end-line="189" selection-end-column="1" />
+        <state relative-caret-position="3162">
+          <caret line="188" column="43" selection-start-line="188" selection-start-column="43" selection-end-line="188" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/GtSocket.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/GtTabBar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/GtTransition.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
           <folding />
         </state>
       </provider>

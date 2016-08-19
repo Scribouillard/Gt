@@ -2,7 +2,7 @@
   "GtButton":
   {
     "1":"<button class=\"gt-button btn btn-primary\">{{text}}</button>",
-    "2":"<div class=\"btn-group\"><button type=\"button\" class=\"gt_button btn btn-primary dropdown-toggle\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">{{text}} <span class=\"caret\"></span></button><ul class=\"gt-buttonList dropdown-menu\"></ul></div>",
+    "2":"<div class=\"btn-group\"><button type=\"button\" class=\"gt-main-button gt_button btn btn-primary dropdown-toggle\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">{{text}} <span class=\"caret\"></span></button><ul class=\"gt-buttonList dropdown-menu\"></ul></div>",
     "3":"<li class=\"gt-button\"><a href=\"#\">{{text}}</a></li>",
     "navBar":"<li class=\"gt-button\"><a href=\"#\">{{text}}</a></li>",
     "tabBar":"<a class=\"gt-button btn btn-primary\" href=\"#\">{{text}}</a>"
@@ -43,5 +43,3 @@
     "1":"<table class=\"table gt-table\"></table>"
   }
 }
-
-
