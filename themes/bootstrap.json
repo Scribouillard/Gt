@@ -5,7 +5,8 @@
     "2":"<div class=\"btn-group\"><button type=\"button\" class=\"gt-main-button gt_button btn btn-primary dropdown-toggle\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">{{text}} <span class=\"caret\"></span></button><ul class=\"gt-buttonList dropdown-menu\"></ul></div>",
     "3":"<li class=\"gt-button\"><a href=\"#\">{{text}}</a></li>",
     "navBar":"<li class=\"gt-button\"><a href=\"#\">{{text}}</a></li>",
-    "tabBar":"<a class=\"gt-button btn btn-primary\" href=\"#\">{{text}}</a>"
+    "tabBar":"<a class=\"gt-button btn btn-primary\" href=\"#\">{{text}}</a>",
+    "contextMenu":"<a class=\"gt-button\" href=\"#\">{{text}}</a>"
   },
   "GtWindow":
   {
@@ -41,6 +42,11 @@
   },
   "GtList":
   {
-    "1":"<table class=\"table gt-table\"></table>"
+    "classic":"<table class=\"table gt-list\"></table>",
+    "classic_tr":"<tr></tr>",
+    "classic_td":"<td class=\"gt-list-element\"></td>",
+    "contextMenu":"<div class=\"dropdown clearfix\" style=\"position:absolute; display:none;\"><ul class=\"dropdown-menu gt-list\" style=\"display:block; position:relative;\"></ul></div>",
+    "contextMenu_tr":"",
+    "contextMenu_td":"<li class=\"gt-list-element\"></li>"
   }
 }
