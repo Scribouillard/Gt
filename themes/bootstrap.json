@@ -48,5 +48,9 @@
     "contextMenu":"<div class=\"dropdown clearfix\" style=\"position:absolute; display:none;\"><ul class=\"dropdown-menu gt-list\" style=\"display:block; position:relative;\"></ul></div>",
     "contextMenu_tr":"",
     "contextMenu_td":"<li class=\"gt-list-element\"></li>"
+  },
+  "GtProgressBar":
+  {
+    "1":"<div class=\"progress\"><div class=\"progress-bar gt-progress-bar-progress gt-progress-bar-text\"></div></div>"
   }
 }
