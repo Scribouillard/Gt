@@ -28,7 +28,8 @@
   },
   "GtCanvas":
   {
-    "1":"<canvas tabindex=\"1000\" style=\"width:100%; height:100%; z-index:4;\"></canvas><script>GtCanvas.initialize(\"{{uniqid}}\");</script>"
+    "1":"<canvas tabindex=\"1000\" style=\"width:100%; height:100%; z-index:4;\"></canvas>",
+    "2":"<canvas tabindex=\"1000\" style=\"width:100%; height:100%; z-index:4;\"></canvas>"
   },
   "GtBar":
   {
