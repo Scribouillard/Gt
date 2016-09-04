@@ -34,7 +34,7 @@
   },
   "GtBar":
   {
-    "1":"<div></div>"
+    "1":"<div class=\"gt-bar\"></div>"
   },
   "GtPageContainer":
   {
