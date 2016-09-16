@@ -1,0 +1,10 @@
+{
+  "name": "gt",
+  "homepage": "https://github.com/Scribouillard/Gt",
+  "authors": [
+    "Romain Banchetti (romain.banchetti@gmail.com)"
+  ],
+  "description": "Gt is a Gt-like JavaScript application framework",
+  "main": "lib/GtObject.js",
+  "license": "MIT"
+}
