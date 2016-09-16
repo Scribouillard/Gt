@@ -4,6 +4,7 @@
   "authors": [
     "Romain Banchetti (romain.banchetti@gmail.com)"
   ],
+  "version": "0.0.1",
   "description": "Gt is a Gt-like JavaScript application framework",
   "main": "lib/GtObject.js",
   "license": "MIT"
