@@ -47,10 +47,17 @@
     "classic_td":"<td class=\"gt-list-element\"></td>",
     "contextMenu":"<div class=\"dropdown clearfix\" style=\"position:absolute; display:none;\"><ul class=\"dropdown-menu gt-list\" style=\"display:block; position:relative;\"></ul></div>",
     "contextMenu_tr":"",
-    "contextMenu_td":"<li class=\"gt-list-element\"></li>"
+    "contextMenu_td":"<li class=\"gt-list-element\"></li>",
+    "autoComplete":"<div class=\"gt-autocomplete dropdown clearfix\" style=\"position:absolute;\"><ul class=\"dropdown-menu gt-list\" style=\"display:block; position:relative;\"></ul></div>",
+    "autoComplete_tr":"",
+    "autoComplete_td":"<li class=\"gt-list-element\" style=\"cursor:pointer; padding:3px;\"></li>"
   },
   "GtProgressBar":
   {
     "1":"<div class=\"progress\"><div class=\"progress-bar gt-progress-bar-progress gt-progress-bar-text\"></div></div>"
+  },
+  "GtAutoComplete":
+  {
+    "default":"<div style=\"display:none; position:absolute;\">[[list]]</div>"
   }
 }
