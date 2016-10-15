@@ -1,0 +1,24 @@
+{
+  "name": "gt",
+  "version": "0.0.2",
+  "description": "Gt is a Qt-like JavaScript application framework",
+  "devDependencies": {
+    "grunt": "~0.4.1"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scribouillard/Gt.git"
+  },
+  "author": "Romain Banchetti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Scribouillard/Gt/issues"
+  },
+  "homepage": "https://github.com/Scribouillard/Gt#readme"
+}
