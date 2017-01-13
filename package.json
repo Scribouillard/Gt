@@ -1,11 +1,9 @@
 {
   "name": "gt",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Gt is a Qt-like JavaScript application framework",
   "devDependencies": {
-    "grunt": "~0.4.1",
-    "grunt-contrib-copy": "^1.0.0",
-    "grunt-contrib-uglify": "^2.0.0"
+    "grunt": "~0.4.1"
   },
   "directories": {
     "test": "tests"
